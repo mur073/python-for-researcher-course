@@ -1,0 +1,2 @@
+# MNIST Classification Using Linear Regression
+This project uses Linear Regression for classifying digits in the MNIST dataset. Linear Regression isn't the best model for this; it is just an experiment to gain a deeper understanding of how it works.
